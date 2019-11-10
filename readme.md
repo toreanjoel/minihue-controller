@@ -40,9 +40,9 @@ Currently you will be sending commands using any bluetooth terminal or serial de
 
  - **`m?{MODE_NUMBER}`** - Mode between custom and animation
 
-  - e.g `m?1`
+    - e.g `m?1`
 
  - **`b?{BRIGHTNESS_VALUE}` **- The brightness level
 
-   - e.g `b?150`
+    - e.g `b?150`
 
