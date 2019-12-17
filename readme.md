@@ -1,4 +1,4 @@
-# **miniHue-FK**
+# **miniHue**
 
 #### How it works:
 This will take a string and will run the string as a method name. There will be delimiters that will split the strings and separate strings as well as be passing arguments to the functions.
